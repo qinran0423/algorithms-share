@@ -7,5 +7,5 @@ hero:
   actions:
     - theme: brand
       text: 开始学习
-      link: /easy/实现pick
+      link: /easy/141. 环形链表
 
