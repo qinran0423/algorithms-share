@@ -19,6 +19,10 @@ export default defineConfig({
 				text: '困难',
 				link: '/hard/25. K 个一组翻转链表',
 			},
+			{
+				text: '通用',
+				link: '/common/二分查找',
+			},
 		],
 
 		sidebar: [
@@ -41,6 +45,12 @@ export default defineConfig({
 				text: '困难',
 				items: [
 					{ text: '25. K 个一组翻转链表', link: '/hard/25. K 个一组翻转链表' },
+				]
+			},
+			{
+				text: '通用',
+				items: [
+					{ text: '二分查找', link: '/common/二分查找' },
 				]
 			},
 		],
